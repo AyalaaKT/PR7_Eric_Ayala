@@ -1,6 +1,6 @@
 # PR7_PD_EricAyala
 
-## PRACTICA 6:  Buses de comunicación III (I2S)
+## PRACTICA 7:  Buses de comunicación III (I2S)
 
 ### Ejercicio Práctico
 
